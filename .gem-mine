@@ -1,0 +1,11 @@
+{
+  "version": "3.4.8",
+  "template_id": "sdk",
+  "name": "data-array-filter",
+  "path": "F:\\nd\\data-array-filter",
+  "env": "{\"template_version\":\"2.15.0\",\"npm_version\":\"6.14.4\",\"node_version\":\"v12.16.2\"}",
+  "user": "GYL",
+  "email": "sehun@0412.com",
+  "choice": "{\"templateId\":\"sdk\",\"features\":[\"lintBeforeCommit\",\"ts\",\"jest\"]}",
+  "project_id": "8599b600-cbf9-11ea-ad42-47671754cbbe_1595408313696"
+}
