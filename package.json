@@ -1,13 +1,18 @@
 {
-  "name": "data-array-filter",
-  "version": "1.0.0",
+  "name": "array-data-filter",
+  "version": "0.1.1",
+  "main": "dist/index.cjs.js",
+  "files": [
+    "dist/**"
+  ],
   "scripts": {
     "build": "gmsr build",
     "dev": "gmsr build --watch",
     "lint": "gmsr lint",
     "lint:fix": "gmsr lint --fix",
     "start": "gmsr dev",
-    "test:unit": "gmsr test:unit"
+    "test": "gmsr test:unit",
+    "prepublish": "npm run build"
   },
   "husky": {
     "hooks": {
